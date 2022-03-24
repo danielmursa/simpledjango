@@ -1,0 +1,5 @@
+*.pyc 
+simpledjango/public/static/
+db.sqlite3
+simpledjango/public/
+settings_local.py
